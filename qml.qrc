@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MyStyles.qml</file>
+        <file>myKeyBoard.qml</file>
+    </qresource>
+</RCC>
